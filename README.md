@@ -1,6 +1,5 @@
 ### Hi there 👋
 **I'm meth a 17 Years old full stack web developer**
----
 [![](https://visitcount.itsvg.in/api?id=rimeth&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ### Interests 🌌
