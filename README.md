@@ -3,6 +3,7 @@
 
 ### Interests 🌌
 - Web exploitation
+- Learning C#
 - Learning Databases
 - Learning more about APIs
 
